@@ -1,11 +1,14 @@
 @font-face {
-    font-family: 'rawline';
-    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot');
-    src: url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.woff') format('woff'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/font/rawline-100.svg') format('svg');
+    font-family: 'smFnt';
+    src: url('https://raw.github.com/jbutcher2002/dev-landing-page/blob/master/css/PoiretOne-Regular.ttf');
+
+    
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'lgFnt';
+    src: url('https://raw.github.com/jbutcher2002/dev-landing-page/blob/master/css/ParkLaneNF.ttf');
     
     font-style: normal;
 } 
